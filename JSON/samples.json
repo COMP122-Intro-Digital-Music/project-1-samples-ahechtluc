@@ -1,13 +1,13 @@
 [
   {
-    "name": "blood pressure",
-    "file": "samples/blood pressure.mp3",
+    "name": "bloodpressure",
+    "file": "samples/bloodpressure.mp3",
     "bpm": "135",
     "loop": "5.5m"
   },
   {
-    "name": "i'll scream",
-    "file": "samples/i'll scream.mp3",
+    "name": "i'llscream",
+    "file": "samples/i'llscream.mp3",
     "bpm": "135",
     "loop": "2.25m"
   },
