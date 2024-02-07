@@ -1,0 +1,20 @@
+[
+  {
+    "name": "bloodpressure",
+    "file": "samples/bloodpressure.mp3",
+    "bpm": "135",
+    "loop": "5.5m"
+  },
+  {
+    "name": "i'llscream",
+    "file": "samples/i'llscream.mp3",
+    "bpm": "135",
+    "loop": "2.25m"
+  },
+  {
+    "name": "goodbye",
+    "file": "samples/goodbye.mp3",
+    "bpm": "135",
+    "loop": "4m"
+  }
+]
