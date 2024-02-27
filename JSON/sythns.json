@@ -1,0 +1,65 @@
+[
+  {
+    "name": "rugger",
+    "type": "Synth",
+    "settings": {
+      "detune": "0",
+      "portamento": "0.5",
+      "volume": "0",
+      "oscillator": {
+        "type": "custom",
+        "phase": 0,
+        "partialCount": "5",
+        "partials": [
+          "1",
+          "0.28",
+          "0.68",
+          "0.43",
+          "0.84"
+        ]
+      },
+      "envelope": {
+        "attack": "1",
+        "attackCurve": "bounce",
+        "decay": "1",
+        "decayCurve": "ripple",
+        "sustain": "1",
+        "release": "1.5",
+        "releaseCurve": "exponential"
+      }
+    }
+  },
+  {
+    "name": "catch",
+    "type": "Synth",
+    "settings": {
+      "detune": "0",
+      "portamento": "0.5",
+      "volume": "-25",
+      "oscillator": {
+        "type": "custom",
+        "phase": 0,
+        "partialCount": "8",
+        "partials": [
+          "0.29",
+          "0.72",
+          "0.11",
+          "0.85",
+          "0.63",
+          "0.72",
+          "0.1",
+          "0.39"
+        ]
+      },
+      "envelope": {
+        "attack": "0.11",
+        "attackCurve": "sine",
+        "decay": "0.11",
+        "decayCurve": "sine",
+        "sustain": "0.6",
+        "release": "1.5",
+        "releaseCurve": "linear"
+      }
+    }
+  }
+]
